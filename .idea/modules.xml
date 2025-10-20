@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CSC120_LAB_FALL2025.iml" filepath="$PROJECT_DIR$/CSC120_LAB_FALL2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week10_LAB7/Week10_LAB7.iml" filepath="$PROJECT_DIR$/Week10_LAB7/Week10_LAB7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1_LAB0/Week1_LAB0.iml" filepath="$PROJECT_DIR$/Week1_LAB0/Week1_LAB0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week2_LAB1/Week2_LAB1.iml" filepath="$PROJECT_DIR$/Week2_LAB1/Week2_LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week4_LAB2/Week3_LAB2.iml" filepath="$PROJECT_DIR$/Week4_LAB2/Week3_LAB2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5_LAB3/Week5_LAB3.iml" filepath="$PROJECT_DIR$/Week5_LAB3/Week5_LAB3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6_LAB4/Week6_LAB4.iml" filepath="$PROJECT_DIR$/Week6_LAB4/Week6_LAB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week7_LAB5/Week7_LAB5.iml" filepath="$PROJECT_DIR$/Week7_LAB5/Week7_LAB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week8_LAB6/Week8_LAB6.iml" filepath="$PROJECT_DIR$/Week8_LAB6/Week8_LAB6.iml" />
+    </modules>
+  </component>
+</project>
